@@ -56,3 +56,7 @@ This project implements a microservices-based e-commerce system with the followi
 - GET /api/customers/{id} - Get customer details
 - PUT /api/customers/{id} - Update customer
 - DELETE /api/customers/{id} - Delete customer
+
+### Results:
+![image](https://github.com/user-attachments/assets/df91bea8-0805-454e-b8d9-41bc5b094935)
+
